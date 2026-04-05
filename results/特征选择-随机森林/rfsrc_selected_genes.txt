@@ -1,0 +1,10 @@
+tsRNA_Val_5_0028
+tsRNA_Val_5_0001
+tsRNA_Gly_5_0056
+tsRNA_Asn_i_0144
+tsRNA_Cys_5_0065
+tsRNA_Leu_1_0071
+tsRNA_Trp_5_0006
+tsRNA_Gly_3_0018
+tsRNA_Leu_5_0121
+tsRNA_Und_5_0005
